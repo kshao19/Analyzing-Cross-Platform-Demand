@@ -138,7 +138,7 @@ OLS estimates all models with **standard errors clustered by studio and year**.
 
 ## 4. Interpreting Key Parameters
 
-- **Nesting parameter \(\sigma\)**  
+- **Nesting parameter $\sigma$**  
   - Positive and statistically significant (~0.2) ⇒ films within a genre are closer substitutes than across genres.  
   - Provides direct evidence against full IIA across all titles.
 
